@@ -1,6 +1,6 @@
-This work is based on the work of BootCallJones Linear Rail Gantry.
-Github: https://github.com/tlace17/K1-Linear-Rail-Gantry
-His Discord: https://discord.gg/gRDr2ggNuM
+This work is based on the work of BootCallJones Linear Rail Gantry.\
+BCJ Github: https://github.com/tlace17/K1-Linear-Rail-Gantry \
+BCJ Discord: https://discord.gg/gRDr2ggNuM 
 
 Now in testing, increased the Size of the Y rod to 10mm instead of 8mm (8mm looks underspec to me) and reinforced the X Rail with a 10x10 extrusion.
 
